@@ -1,4 +1,4 @@
-<font size = 7><center><b><u>About Zetachain</u></b></center></font>
+# About Zetachain
 
 * ### **[Zetachain](https://www.zetachain.com)** is the first Universal Blockchain with native access to Bitcoin, Ethereum, Solana, and more, offering seamless UX and unified liquidity to the next billions of users.
 
@@ -39,7 +39,7 @@
 
 - Our bot can also perform an on-chain RPC and persistent peers scanning.
   
-<font size = 5><center><b><u>Key Commands</u></b></center></font>
+### Key Commands:
 
 #### Validators:
 - `!val <valoper>`: Key validator metrics + real-time blocks signing
