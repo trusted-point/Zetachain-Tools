@@ -1,4 +1,4 @@
-<font size = 7><center><b><u>About Warden Zetachain</u></b></center></font>
+<font size = 7><center><b><u>About Zetachain</u></b></center></font>
 
 * ### **[Zetachain](https://www.zetachain.com)** is the first Universal Blockchain with native access to Bitcoin, Ethereum, Solana, and more, offering seamless UX and unified liquidity to the next billions of users.
 
